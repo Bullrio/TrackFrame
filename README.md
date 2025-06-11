@@ -1,3 +1,3 @@
-# TrackFrame Farcaster
+# TrackFrame
 
-Farcaster Frame mini app to share songs from YouTube or Spotify with interactive playback
+Farcaster Frame mini app to share songs from YouTube or Spotify with interactive playback.
